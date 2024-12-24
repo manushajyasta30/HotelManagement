@@ -1,0 +1,6 @@
+PORT = 5000
+NODE_ENV = development
+MONGO =
+appName=
+SECRET =
+PAYPAL_CLIENT_ID=
